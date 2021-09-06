@@ -1,0 +1,78 @@
+@media (min-width:768px) and (max-width:991px){
+    .btn-plan {
+        
+        font-size: 11px !important;
+    }
+}
+@media (min-width:576px) and (max-width:767px){
+    .ico {
+        display: flex;
+        justify-content: center;
+    }
+    .end {
+        padding-left:0px !important; 
+   }
+}
+
+@media (min-width:0px) and (max-width:575px){
+    .creative {
+        padding: 56px 0;
+    }
+    .create{
+        padding-top:20px;
+    }
+    .contant {
+        margin: 110px 0;
+    }
+   
+    .pricing {
+        margin-top: 99px;
+    }
+   
+    .end {
+        display: contents;
+    }
+    .btn-now {
+        
+        margin-left: 25px;
+        
+        padding: 10px 14px;
+    }
+    .set-two {
+        padding: 50px 0;
+    }
+    .set-three {
+        padding-bottom: 50px;
+    }
+    footer p {
+        text-align: center;
+    }
+    .ico {
+        /* padding-right: 51px !important; */
+        display: flex;
+        justify-content: center !important ;
+        
+    }
+    .contant-left p {
+        padding-bottom: 23px;
+    }
+    .set-set {
+        
+        padding-top:-20px;
+    }
+    .creativess {
+        padding-top: 52px;
+        margin-bottom: -136px;
+    }
+    .container-fluid h2 {
+        font-size: 18px !important;
+        
+    }
+    .container-fluid p {
+        font-size: 12px !important;
+    }
+    .container-fluid span {
+        height: 14px !important;
+        margin: 0 2px !important;
+    }
+}
